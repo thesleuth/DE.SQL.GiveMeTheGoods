@@ -44,8 +44,7 @@ Select all records from the **Students** table where the last letter of the **Ci
 *(Add your query to the file exercise8.sql)*
 
 
-Select all records from the **Students** table where the first letter of the **
-** is an "a" or a "c" or an "s".
+Select all records from the **Students** table where the first letter of the **City** is an "a" or a "c" or an "s".
 
 
 *(Add your query to the file exercise9.sql)*
